@@ -5,4 +5,6 @@ Implemented a closed-loop controller on Python for controlling the joints on an 
 
 Coded to create a Service-Client architecture on ROS for parsing the Cartesian coordinates of the waypoints for the controller to pass through
 
+## Output Video:
+
 https://user-images.githubusercontent.com/66936332/219976518-9de45622-be4e-4e56-9c9d-db6639616641.mp4
